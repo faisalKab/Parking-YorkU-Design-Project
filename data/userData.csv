@@ -1,0 +1,7 @@
+email,password,approved,type
+Josh,j123,true,Visitor
+Ben,b123,true,Student
+bob@gmail.com,Iambob1!,true,Student
+Gary,g123,false,FacultyMember
+Alan,a123,false,NonFacultyStaff
+Hank,h123,false,Student
