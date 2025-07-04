@@ -4,22 +4,6 @@ A modern, user-friendly Java desktop application for managing parking lots, book
 
 ---
 
-## Features
-
-- **User & Manager Accounts**: Registration, login, and approval workflows.
-- **Parking Lot Management**: Book, view, and manage parking spaces.
-- **Role-Based Dashboards**: Separate interfaces for users and managers.
-- **Data Persistence**: All data stored in CSV files for easy portability.
-- **Robust Testing**: Includes unit and regression tests for core features.
-
----
-
-## Screenshots
-
-> _Add screenshots or a GIF here to showcase the UI!_
-
----
-
 ## Getting Started
 
 ### Prerequisites
@@ -48,6 +32,24 @@ A modern, user-friendly Java desktop application for managing parking lots, book
      ```
 
 ---
+
+## Features
+
+- **User & Manager Accounts**: Registration, login, and approval workflows.
+- **Parking Lot Management**: Book, view, and manage parking spaces.
+- **Role-Based Dashboards**: Separate interfaces for users and managers.
+- **Data Persistence**: All data stored in CSV files for easy portability.
+- **Robust Testing**: Includes unit and regression tests for core features.
+
+---
+
+## Screenshots
+
+![parking gif](https://github.com/user-attachments/assets/a1a83327-1e21-4b4a-a963-1e17b4e6a770)
+
+
+---
+
 
 ## Design Patterns Used
 
